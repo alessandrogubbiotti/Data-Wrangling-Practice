@@ -1,2 +1,2 @@
 # Data-Wrangling-Practice
-Practice for the Data Wrangling course at MIDAS
+Practice Sessions for the Data Wrangling course at MIDAS of Matteo, Ilaria and Alessandro
